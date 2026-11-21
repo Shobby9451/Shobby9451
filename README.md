@@ -1,7 +1,7 @@
 # Sean Liu
 
-UBC Commerce student with a Data Science minor. I build small finance and analytics projects in Python and R — market data, backtests, statistical models, and clear write-ups of what the numbers actually mean.
-
+UBC Commerce student with a Data Science minor. I build small finance and analytics projects in Python and R about market data, backtests, statistical models, and clear write-ups of what the numbers actually mean.
+ 
 **Open to internships** in finance, data analytics, or quant-adjacent roles.
 
 ## Featured projects
